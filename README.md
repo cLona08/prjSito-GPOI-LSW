@@ -19,4 +19,5 @@ Questo sito web statico raccoglie i progetti realizzati dagli studenti della Cla
 3. Anche gli altri membri del gruppo fanno un fork della repository del team leader
 4. Il team leader gestirà le richieste di **Pull Request** che arrivano dai suoi compagni
 
-# LONA
+# PROGETTAZIONE GIOCO FORZA4 - JAVA FX
+
