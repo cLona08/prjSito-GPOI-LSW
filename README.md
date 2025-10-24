@@ -1,5 +1,8 @@
 # Sito-GPOI
 
+## Membri del gruppo
+Lona Christian, Sandri martino e Winkler Aurora
+
 ## Obiettivo
 Questo sito web statico raccoglie i progetti realizzati dagli studenti della Classe 4ds.
 
